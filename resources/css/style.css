@@ -5,3 +5,9 @@ h1{
   color: black;
   text-align: center;
 }
+
+#watered, p {
+  font-size: 16px;
+  text-align: center;
+  color: aquamarine;
+}
