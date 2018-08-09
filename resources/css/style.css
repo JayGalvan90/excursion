@@ -1,13 +1,24 @@
+body {
+  background-color: black;
+}
+
+
+
 h1{
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
-  color: black;
+  color: white;
   text-align: center;
+
 }
 
 #watered, p {
   font-size: 16px;
   text-align: center;
   color: aquamarine;
+
+}
+.media p {
+  color: gray;
 }
